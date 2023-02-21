@@ -1,1 +1,1 @@
-# aichi-auto.gifhub.io
+# aichi-auto.github.io
